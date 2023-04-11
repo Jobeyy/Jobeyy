@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jobeyy
 - 👀 I’m interested in Coding and working out
-- 🌱 I’m currently learning C++ and Python3
+- 🌱 I’m currently learning C++ and Python
 - 📫 How to reach me JobeyFarias@gmail.com
 
 <!---
